@@ -1,25 +1,21 @@
-[
-	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
-]
+[ 
+  
+{ "name": "Immortal Domain", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold", "All newly-trained [All] units [in all cities] receive the [Immortal Ability] promotion", "[5] Movement", "[+50]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
+
+{ "name": "Inferno Ground", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [Inferno Ability] promotion" ] } 
+
+{ "name": "Forgotten Mines", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Gold] per [1] population [in all cities]", "No Maintenance costs for improvements in [All] tiles", "[-1000]% maintenance costs <for [All] units>", "[-1000]% maintenance on road & railroads", "[-1000]% maintenance cost for buildings [in all cities]" ] }
+
+{ "name": "Theatre of the Damned", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+100]% Golden Age length" ] } 
+
+{ "name": "Eternal Pleasure", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] }
+
+{ "name": "Origin Vaults", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+50]% [Food] [in all cities]" ] }
+
+{ "name": "Library of Three Thousand World", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+35]% [Science] [in all cities]" ] }
+
+{ "name": "Capital Of Nexus", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+50]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[50]%", "[-50]% tile improvement construction time" ] }
+  
+{ "name": "The Savior", "isNationalWonder": true, "cost": 1, "uniques": [ "Destroyed when the city is captured", "All newly-trained [All] units [in all cities] receive the [Naraka Bless Ability] promotion", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]" ] } 
+
+ ] 
