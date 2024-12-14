@@ -1,5 +1,2 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+# Naraka Nation
+This is a mod where there's a powerful nation name "Naraka", enjoy the game with this powerful nation!
