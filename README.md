@@ -1,2 +1,2 @@
-# Naraka Nation
-This is a mod where there's a powerful nation name "Naraka", enjoy the game with this powerful nation!
+# Cheat Only For Human
+This mod was cheat for those who want's to play deity mod lol
