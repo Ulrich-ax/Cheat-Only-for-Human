@@ -27,7 +27,7 @@
 			"All newly-trained [All] units [in all cities] receive the [Immortal] promotion",
 			"Defense bonus when embarked <for [All] units>",
 			"New [All] units start with [200000] Experience [in all cities]",
-			"New [All] units can move immediately once bought",
+			"[All] units can move immediately once bought",
 			"Quantity of strategic resources produced by the empire +[200000]%"],
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
