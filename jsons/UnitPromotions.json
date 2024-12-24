@@ -12,7 +12,8 @@
     "Can pass through impassable tiles",
     "May attack when embarked",
     "Can move immediately once bought",
-    "No damage penalty for wounded units"]}
+    "No damage penalty for wounded units",
+    "Can move immediately once bought"]}
 ]
     
     
