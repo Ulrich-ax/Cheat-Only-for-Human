@@ -11,6 +11,7 @@
     "Ignores Zone of Control",
     "Can pass through impassable tiles",
     "May attack when embarked",
+    "Can move immediately once bought",
     "No damage penalty for wounded units"]}
 ]
     
