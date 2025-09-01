@@ -1,0 +1,8 @@
+        "name": "CheatActivator",
+        "cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+        "uniques": [
+        "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+            "Can only be built <in [in capital] cities> <hidden from users>",
+                "Destroyed when the city is captured <hidden from users>",
